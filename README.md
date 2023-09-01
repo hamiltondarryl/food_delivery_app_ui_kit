@@ -1,16 +1,16 @@
 # food_delivery_app_ui_kit
 
-A new Flutter project.
+Integration de deux interfaces mobile avec flutter
 
-## Getting Started
+## Let's GO....
 
-This project is a starting point for a Flutter application.
+Dans ce projet je vais utiliser le package :
 
-A few resources to get you started if this is your first Flutter project:
+- [flutter_svg](https://pub.dev/packages/flutter_svg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Et la maquette d'inspiration de  [UI Times](https://www.uplabs.com/uitimes) sur le site [uplabs](https://www.uplabs.com/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>
+  <img src="https://assets.materialup.com/uploads/60e61624-d3ff-4cc0-94e0-ade0dbef4c89/preview.jpg" target="_blanck" width="550" title="Accueil">
+</p>
+
