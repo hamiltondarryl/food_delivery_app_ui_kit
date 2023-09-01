@@ -10,5 +10,6 @@ Dans ce projet je vais utiliser le package :
 
 Et la maquette d'inspiration de  [UI Times](https://www.uplabs.com/uitimes) sur le site [uplabs](https://www.uplabs.com/)
 
-![Alt text](https://assets.materialup.com/uploads/60e61624-d3ff-4cc0-94e0-ade0dbef4c89/preview.jpg)
-
+<p>
+  <img src="https://raw.githubusercontent.com/hamiltondarryl/qrcode_hd/main/assets/img/preview.jpg" target="_blanck" width="350" title="Accueil">
+</p>
