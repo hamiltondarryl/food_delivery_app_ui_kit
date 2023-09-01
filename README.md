@@ -11,5 +11,5 @@ Dans ce projet je vais utiliser le package :
 Et la maquette d'inspiration de  [UI Times](https://www.uplabs.com/uitimes) sur le site [uplabs](https://www.uplabs.com/)
 
 <p>
-  <img src="https://raw.githubusercontent.com/hamiltondarryl/qrcode_hd/main/assets/img/preview.jpg" target="_blanck" width="350" title="Accueil">
+  <img src="https://raw.githubusercontent.com/hamiltondarryl/food_delivery_app_ui_kit/main/assets/img/preview.jpg" target="_blanck" width="350" title="Accueil">
 </p>
